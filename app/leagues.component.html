@@ -1,0 +1,11 @@
+
+  <h2>Mercury Leagues</h2>
+  <ul class="leagues">
+    <li
+        [class.selected]="league === selectedLeague"
+        *ngFor="let league of leagues"
+        (click)="onSelect(league)">
+      <span class="badge">{{league.id}}</span> {{league.name}}
+    </li>
+  </ul>
+  <my-league-detail [league]="selectedLeague"></my-league-detail>
