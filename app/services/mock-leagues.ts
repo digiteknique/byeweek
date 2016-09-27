@@ -39,6 +39,23 @@ export const LEAGUES: League[] = [
                     'The torn ACL had 7 starters fail to reach their projections.',
                     'The WRs on The torn ACL let them down, resulting in a 36.00 - 18.00 difference at the position.'
         ]
+      },
+      {
+                id: 3,
+                winnerTeamName: 'Sinestro Corps',
+                loserName: 'Chris Smith',
+                loserTeamName: 'Hops & Barley',
+                winnerScore: 90.34,
+                loserScore: 77.06,
+                loserImage: 'ChrisSmith.jpg',
+                introText: 'The beer must have gotten to him when he put this sorry excuse for a team together. Lowest score of the week between both leagues.',
+                introTitle: 'A finalist from last year, back where he belongs',
+                highlights: [
+                    'Left Darren Sproles on the bench, where he scored 20.30 points and surpassed his scoring projection by 63.3%, the highest percentage of any player on the team.',
+                    'Did not start Kirk Cousins, who led the team in scoring with 23.34 points.',
+                    'At the QB position, Hops&Barley got outscored 31.94 - 13.86 by Sinestro Corps.',
+                    'Whoever gave you this advice, you might want to lose their number. Picked up and started Theo Riddick, who then scored below his 10.34-point projection with 4.80 points.'
+        ]
       }
     ]
   },
@@ -95,6 +112,23 @@ export const LEAGUES: League[] = [
                     'Had a chance to start Torrey Smith, who outdid his scoring projection of 6.15 points by scoring 11.50 points.',
                     'Dak\'s Not Romo had 7 of their 9 starters score less than their projected points.',
                     'The WRs on Dak\'s Not Romo let them down, resulting in a 47.20 - 16.80 difference at the position.'
+                ]
+      },
+      {
+                id: 3,
+                winnerTeamName: 'Bears Beets BSG',
+                loserName: 'Kevin Hill',
+                loserTeamName: 'BigBadBallers',
+                winnerScore: 176.58,
+                loserScore: 78.42,
+                loserImage: 'KevinHill.jpg',
+                introText: 'The lowest score of the season goes to one of last years finalists. Losing by almost 100 points, he huffed, and puffed, but just ended up needing his inhaler.',
+                introTitle: '3 Elite Receivers, 11 elite points.',
+                highlights: [
+                    'Did not start Michael Floyd, who underachieved but still scored more than any WR on the team with 6.50 points against a projected 8.05.',
+                    'BigBadBallers would have welcomed more points at WR, where Bears Beets BSG topped them 66.40 - 11.80.',
+                    'The RBs on BigBadBallers let them down, getting outgunned by the RBs on Bears Beets BSG 41.80 - 17.90.',
+                    'BigBadBallers scored the fewest points in the league this week and had the lowest score in the league this season.'
                 ]
       }
     ]
