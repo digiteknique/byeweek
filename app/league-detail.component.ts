@@ -9,8 +9,8 @@ import { Week } from './models/week';
 
 @Component({
   selector: 'my-league-detail',
-  templateUrl: 'app/league-detail.component.html',
-  styleUrls: ['app/league-detail.component.css']
+  templateUrl: './league-detail.component.html',
+  styleUrls: ['./league-detail.component.css']
 })
 export class LeagueDetailComponent implements OnInit {
   @Input()

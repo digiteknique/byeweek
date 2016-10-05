@@ -56,6 +56,23 @@ export const LEAGUES: League[] = [
                     'At the QB position, Hops&Barley got outscored 31.94 - 13.86 by Sinestro Corps.',
                     'Whoever gave you this advice, you might want to lose their number. Picked up and started Theo Riddick, who then scored below his 10.34-point projection with 4.80 points.'
         ]
+      },
+      {
+                id: 4,
+                winnerTeamName: 'KoZ',
+                loserName: 'Angela Jenkins',
+                loserTeamName: 'The Electric Mayhem',
+                winnerScore: 104.20,
+                loserScore: 74.92,
+                loserImage: 'AngelaJenkins.jpg',
+                introText: 'A week of returning bye weeks shows us The Electric Mayhem again.',
+                introTitle: 'This band should retire',
+                highlights: [
+                    'Left Blake Bortles on the bench, where he led the matchup in scoring with 29.88 points.',
+                    'Lost the matchup despite getting KoZ on their lowest-scoring week of the season.',
+                    'Lost the matchup despite getting KoZ on their lowest-scoring week of the season.',
+                    'KoZ had a better day at the QB position, topping The Electric Mayhem 17.60 - 8.22.'
+        ]
       }
     ]
   },
@@ -129,6 +146,23 @@ export const LEAGUES: League[] = [
                     'BigBadBallers would have welcomed more points at WR, where Bears Beets BSG topped them 66.40 - 11.80.',
                     'The RBs on BigBadBallers let them down, getting outgunned by the RBs on Bears Beets BSG 41.80 - 17.90.',
                     'BigBadBallers scored the fewest points in the league this week and had the lowest score in the league this season.'
+                ]
+      },
+      {
+                id: 4,
+                winnerTeamName: 'Clif\'s Team',
+                loserName: 'Kevin Hill',
+                loserTeamName: 'BigBadBallers',
+                winnerScore: 133.52,
+                loserScore: 76.42,
+                loserImage: 'KevinHill.jpg',
+                introText: 'This team should just be renamed to BadBallers. Nothing redeeming about this team, expect to see more of them on bye week.',
+                introTitle: 'Another week on the bottom',
+                highlights: [
+                    'Left Brock Osweiler on the bench, where he led the team in scoring with 19.56 points.',
+                    'BigBadBallers picked up Matthew Stafford, who then fell short of his 22.97-point projection by scoring 8.22 points.',
+                    'With 0.40 points, DeAndre Hopkins was last in the matchup in scoring and got only 3.4% of his projected point total, which is his lowest percentage of the season.',
+                    'The WR corps couldn\'t keep pace with their counterparts from clif\'s Team and were outscored 41.30 - 15.10.'
                 ]
       }
     ]

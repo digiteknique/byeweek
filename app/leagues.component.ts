@@ -6,8 +6,8 @@ import { LeagueDetailComponent } from './league-detail.component';
 
 @Component({
   selector: 'my-leagues',
-  templateUrl:'app/leagues.component.html',
-  styleUrls: ['app/leagues.component.css'],
+  templateUrl:'./leagues.component.html',
+  styleUrls: ['./leagues.component.css'],
 providers: [LeagueService]
 })
 
