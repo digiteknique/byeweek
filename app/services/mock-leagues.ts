@@ -73,6 +73,23 @@ export const LEAGUES: League[] = [
                     'Lost the matchup despite getting KoZ on their lowest-scoring week of the season.',
                     'KoZ had a better day at the QB position, topping The Electric Mayhem 17.60 - 8.22.'
         ]
+      },
+      {
+                id: 5,
+                winnerTeamName: 'The torn ACL',
+                loserName: 'Eric Thompson',
+                loserTeamName: 'Sinestro Corps',
+                winnerScore: 109.38,
+                loserScore: 82.28,
+                loserImage: 'EricThompson.jpg',
+                introText: 'Apparently the Green Lantern Corps sabotaged this team. They dropped 55 points in one week!',
+                introTitle: 'A point drop of cosmic proportions',
+                highlights: [
+                    'When assigning blame following this loss, Sinestro Corps can look in the mirror. They started a player with zero points (Michael Floyd).',
+                    'Gotta hit rock button before you can start to rise. It was a season-low 16.98 points for Matt Ryan this week. It was also a season-low for his performance versus projections, reaching only 81.3% of a projected point total of 20.88.',
+                    'Sinestro Corps would have welcomed more points at WR, where The torn ACL topped them 35.50 - 15.20.',
+                    '7 of the starters on Sinestro Corps underperformed versus their projections.'
+        ]
       }
     ]
   },
@@ -163,6 +180,23 @@ export const LEAGUES: League[] = [
                     'BigBadBallers picked up Matthew Stafford, who then fell short of his 22.97-point projection by scoring 8.22 points.',
                     'With 0.40 points, DeAndre Hopkins was last in the matchup in scoring and got only 3.4% of his projected point total, which is his lowest percentage of the season.',
                     'The WR corps couldn\'t keep pace with their counterparts from clif\'s Team and were outscored 41.30 - 15.10.'
+                ]
+      },
+      {
+                id: 5,
+                winnerTeamName: 'Jennifer\'s Team',
+                loserName: 'Patrick Scott',
+                loserTeamName: 'Dak\'s Not Romo',
+                winnerScore: 133.52,
+                loserScore: 76.42,
+                loserImage: 'PatrickScott.jpg',
+                introText: 'It seems that this team name might be reversed. This old and tired team needs a refresh, and someone new at the helm might be the perfect solution.',
+                introTitle: 'We have a mini-playoff for worst in the division',
+                highlights: [
+                    'Dak\'s Not Romo had two starters score zero points (Torrey Smith and Coby Fleener).',
+                    'The Carolina Panthers Defense had two season-lows this week. They scored a season-low 5.70 points and recorded only 35.7% of their 15.97-point projection.',
+                    'With 3.60 points versus a projected 9.84, John Brown scored only 36.6% of his projected point total.',
+                    'Of the 9 starters on Dak\'s Not Romo, 6 underperformed versus their projections.'
                 ]
       }
     ]
